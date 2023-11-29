@@ -1,0 +1,20 @@
+{
+  "name": "resume-pdf",
+  "version": "1.0.0",
+  "description": "A full stack web app that allows user input to create a resume based on the template picked.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/oyugiben/pdf-resume-builder"
+  },
+  "keywords": [
+    "resume",
+    "cv",
+    "builder"
+  ],
+  "author": "Benson Oyugi",
+  "license": "ISC"
+}
